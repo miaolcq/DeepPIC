@@ -13,11 +13,12 @@ The main packages can be seen in requirements.txt
 Install Anaconda https://www.anaconda.com/
 
 Install main packages in requirements.txt with following commands
-
+```
  conda create --name DeepPIC python=3.8.13
  conda activate DeepPIC
  python -m pip install -r requirements.txt
  pip install tqdm
+```
 # Clone the repo and run it directly
 git clone at：https://github.com/miaolcq/DeepPIC.git
 
